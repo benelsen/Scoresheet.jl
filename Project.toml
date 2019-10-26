@@ -1,0 +1,11 @@
+name = "Scoresheet"
+uuid = "da652e13-2893-48fd-ac4d-dcc72e1adf51"
+authors = ["Ben Elsen <mail@benelsen.com>"]
+version = "0.0.0"
+
+[deps]
+Luxor = "ae8d54c2-7ccd-5906-9d76-62fc9837b5bc"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+
+[compat]
+julia = "^1.2"
